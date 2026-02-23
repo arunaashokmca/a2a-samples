@@ -12,6 +12,9 @@ Sample agent to give fun facts using Grounding with Google Search and ADK
 * [**Google ADK Expense Reimbursement**](/samples/python/agents/adk_expense_reimbursement/README.md)  
 Sample agent to (mock) fill out expense reports. Showcases multi-turn interactions and returning/replying to webforms through A2A.
 
+* [**ADK DataOps Multi-Agent**](/samples/python/agents/adk_dataops_multiagent/README.md)  
+Sample ADK+A2A multi-agent setup for RDBMS-to-GCS configuration, Jinja DAG generation, and audit checks with HITL.
+
 * [**AG2 MCP Agent with A2A Protocol**](/samples/python/agents/ag2/README.md)  
 Demonstrates an MCP-enabled agent built with [AG2](https://github.com/ag2ai/ag2) that is exposed through the A2A protocol.
 
