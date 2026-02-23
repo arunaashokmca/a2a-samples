@@ -1,0 +1,12 @@
+[project]
+name = "adk-dataops-multiagent"
+version = "0.1.0"
+description = "ADK multi-agent sample with A2A delegation and HITL"
+requires-python = ">=3.12"
+dependencies = [
+  "a2a-sdk>=0.3.0",
+  "google-adk",
+    "click",
+  "uvicorn",
+  "httpx",
+]
